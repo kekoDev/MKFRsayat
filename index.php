@@ -63,7 +63,7 @@ if (!isset($name)) {
 </label>
   </div>
   <div class="card-action" id="sendbkeko">
-    <a onclick='send_keko("<?php echo htmlspecialchars($username); ?>")' style="background-color:#2D2F31;color:#f8f9fa; width:90%;margin:10px;border:0;direction: ltr;" href="#" class="btn wave-ripples"><i class="fa fa-info"></i><img src="https://www.sarhne.com/assets/img/sent.svg" alt="#" style="vertical-align:middle;" width="22" height="auto"> أرسال الآن </a>
+    <a onclick='send_keko("<?php echo htmlspecialchars($username); ?>")' style="background-color:#2D2F31;color:#f8f9fa; width:90%;margin:10px;border:0;direction: ltr;" href="#" class="btn wave-ripples"><i class="fa fa-info"></i><img src="https://sayat.keko.dev/sent.svg" alt="#" style="vertical-align:middle;" width="22" height="auto"> أرسال الآن </a>
   </div>
 </div>
         <div class="fixed-bottom endwebsite">
