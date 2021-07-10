@@ -15,7 +15,7 @@
 
 ]
 
-2. لارسال رساله جديده : `https://sayat.keko.dev/api.php?username={username bot}&text={msg}`
+2. لارسال رساله جديده : `https://sayat.keko.dev/api.php?username={username bot}&text={msg}` : **Response** :
 
 [
 
